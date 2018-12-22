@@ -1,2 +1,3 @@
 # cOSMa
-personalise MacOS with added entropy
+depersonalise MacOS and minimise your entropy 
+
